@@ -13,6 +13,10 @@ export const A = styled.a`
   text-align: center;
   font-size: 3vh;
 
+  :link {
+    color: black;
+  }
+
   :visited {
     color: black;
   }
