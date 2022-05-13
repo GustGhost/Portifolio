@@ -31,7 +31,7 @@ export const ProjectDiv = styled.div`
   }
 
   @media only screen and (max-width: 600px) {
-    height: 30vh;
+    height: 35vh;
     width: 70vw;
     margin-left: -15vw;
   }
