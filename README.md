@@ -7,6 +7,4 @@ Caso queira ver o código sinta-se à vontade!
 
 Link do portifólio:
 
-[Portifólio](https://portifolio-luis.surge.sh){:target="_blank"}
-
 <a href="https://portifolio-luis.surge.sh" target="_blank"> Portifólio </a>
